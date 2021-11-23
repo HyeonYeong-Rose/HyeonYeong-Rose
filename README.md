@@ -1,4 +1,4 @@
-# HyeonYeong Seo (Rose🌹 in English)
+# HyeonYeong Seo (Rose🌹)
 
 ## Education
 **Seoul National University of Science and Technology**
