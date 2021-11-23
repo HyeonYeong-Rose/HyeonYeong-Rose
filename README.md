@@ -1,13 +1,13 @@
 # HyeonYeong Seo (Rose🌹)
 
-## Education
+## Education🏫
 **Seoul National University of Science and Technology**
 
 **Northumbria University** *(Dual Degree)*
 - Majoring in Industrial Engineering⚙️
 - Information Technology Management🔥!!
 
-## Projects
+## Projects💻
 - Exam Cheating Proctoring Service
     
 - Consulting web service for small business cafe owners
@@ -43,7 +43,7 @@
     - Learned how to deal with customers and the importance of communication through meeting with actual consulting industry professionals
     - Identified big data processing and analysis technology used in the consulting industry
 
-## Acitivities
+## Acitivities🧑‍🤝‍🧑
 1. Vice President of Seoul Tech ITM Student Council (PRESENT)
 2. Coding volunteering club (COALA)
 3. International Student Club (SeoulTech ISC)
